@@ -1,0 +1,608 @@
+{
+  "loginUsers": [
+    {
+      "id": "1",
+      "username": "esakki",
+      "password": "12344"
+    },
+    {
+      "id": "2",
+      "username": "Raja",
+      "password": "12344"
+    },
+    {
+      "id": "5a07",
+      "username": "raja",
+      "password": "1234567890"
+    },
+    {
+      "id": "5a87",
+      "username": "Alan Brown",
+      "password": "alan5pass"
+    },
+    {
+      "id": "c566",
+      "username": "arun",
+      "password": "12345"
+    },
+    {
+      "id": "bd7b",
+      "username": "karthick",
+      "password": "12345678"
+    },
+    {
+      "id": "0e36",
+      "username": "esakki",
+      "password": "12345678"
+    },
+    {
+      "id": "09eb",
+      "username": "esakki",
+      "password": "1234"
+    },
+    {
+      "id": "5839",
+      "username": "raja",
+      "password": "1234"
+    },
+    {
+      "id": "4f6c",
+      "username": "raja",
+      "password": "1234"
+    },
+    {
+      "id": "1cd7",
+      "username": "raja",
+      "password": "qwerty"
+    },
+    {
+      "id": "3e86",
+      "username": "esj",
+      "password": "kn"
+    },
+    {
+      "id": "45d1",
+      "username": "ed",
+      "password": "lmlmm"
+    },
+    {
+      "id": "1e29",
+      "username": "raja",
+      "password": "1234567890"
+    },
+    {
+      "id": "d578",
+      "username": "ganesh",
+      "password": "12354"
+    },
+    {
+      "id": "9ceb",
+      "username": "effdsfdeffed",
+      "password": "gvfdgrvrfre"
+    },
+    {
+      "id": "5c23",
+      "username": "manoj",
+      "password": "manoj"
+    },
+    {
+      "id": "d8e5",
+      "username": "esakki",
+      "password": "12345678"
+    }
+  ],
+  "Teachers": [
+    {
+      "name": "Alan Brown",
+      "email": "alan.brown5@example.com",
+      "degree": "BTech IT",
+      "subject": "Computer Science",
+      "phone": "9954236642",
+      "gender": "Male",
+      "password": "alan5pass",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson6@example.com",
+      "degree": "BTech Mechanical",
+      "subject": "Mathematics",
+      "phone": "9932796965",
+      "gender": "Female",
+      "password": "sarah6pass"
+    },
+    {
+      "id": "7",
+      "name": "Emily Davis",
+      "email": "emily.davis7@example.com",
+      "degree": "BTech Civil",
+      "subject": "Geography",
+      "phone": "9879537227",
+      "gender": "Male",
+      "password": "emily7pass"
+    },
+    {
+      "id": "8",
+      "name": "Olivia Miller",
+      "email": "olivia.miller8@example.com",
+      "degree": "BSc Mathematics",
+      "subject": "English",
+      "phone": "9366988071",
+      "gender": "Male",
+      "password": "olivia8pass"
+    },
+    {
+      "id": "9",
+      "name": "James Wilson",
+      "email": "james.wilson9@example.com",
+      "degree": "BSc Mathematics",
+      "subject": "Computer Science",
+      "phone": "9690172491",
+      "gender": "Male",
+      "password": "james9pass"
+    },
+    {
+      "id": "10",
+      "name": "David Lee",
+      "email": "david.lee10@example.com",
+      "degree": "BA English",
+      "subject": "English",
+      "phone": "9851296079",
+      "gender": "Female",
+      "password": "david10pass"
+    },
+    {
+      "id": "12",
+      "name": "Emily Davis",
+      "email": "emily.davis12@example.com",
+      "degree": "BCom",
+      "subject": "Physics",
+      "phone": "9977058176",
+      "gender": "Female",
+      "password": "emily12pass"
+    },
+    {
+      "id": "13",
+      "name": "Emily Davis",
+      "email": "emily.davis13@example.com",
+      "degree": "BTech Mechanical",
+      "subject": "Economics",
+      "phone": "9446210730",
+      "gender": "Female",
+      "password": "emily13pass"
+    },
+    {
+      "id": "14",
+      "name": "Emma White",
+      "email": "emma.white14@example.com",
+      "degree": "BCom",
+      "subject": "Biology",
+      "phone": "9241072007",
+      "gender": "Female",
+      "password": "emma14pass"
+    },
+    {
+      "id": "15",
+      "name": "Sophia Anderson",
+      "email": "sophia.anderson15@example.com",
+      "degree": "BSc Computer Science",
+      "subject": "English",
+      "phone": "9504092808",
+      "gender": "Female",
+      "password": "sophia15pass"
+    },
+    {
+      "id": "17",
+      "name": "Daniel Thomas",
+      "email": "daniel.thomas17@example.com",
+      "degree": "BBA",
+      "subject": "Science",
+      "phone": "9103082516",
+      "gender": "Female",
+      "password": "daniel17pass"
+    },
+    {
+      "id": "18",
+      "name": "Alan Brown",
+      "email": "alan.brown18@example.com",
+      "degree": "BSc Mathematics",
+      "subject": "Geography",
+      "phone": "9803609992",
+      "gender": "Male",
+      "password": "alan18pass"
+    },
+    {
+      "id": "19",
+      "name": "Sophia Anderson",
+      "email": "sophia.anderson19@example.com",
+      "degree": "BTech Civil",
+      "subject": "English",
+      "phone": "9572948374",
+      "gender": "Male",
+      "password": "sophia19pass"
+    },
+    {
+      "id": "20",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson20@example.com",
+      "degree": "BTech Mechanical",
+      "subject": "Science",
+      "phone": "9151764580",
+      "gender": "Female",
+      "password": "sarah20pass"
+    },
+    {
+      "id": "21",
+      "name": "Sophia Anderson",
+      "email": "sophia.anderson21@example.com",
+      "degree": "BTech Mechanical",
+      "subject": "Mathematics",
+      "phone": "9637309334",
+      "gender": "Male",
+      "password": "sophia21pass"
+    },
+    {
+      "id": "22",
+      "name": "John Smith",
+      "email": "john.smith22@example.com",
+      "degree": "BSc Computer Science",
+      "subject": "Physics",
+      "phone": "9420459164",
+      "gender": "Male",
+      "password": "john22pass"
+    },
+    {
+      "id": "23",
+      "name": "John Smith",
+      "email": "john.smith23@example.com",
+      "degree": "BCom",
+      "subject": "English",
+      "phone": "9228486173",
+      "gender": "Female",
+      "password": "john23pass"
+    },
+    {
+      "id": "25",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson25@example.com",
+      "degree": "BSc Mathematics",
+      "subject": "Mathematics",
+      "phone": "9198432066",
+      "gender": "Female",
+      "password": "sarah25pass"
+    },
+    {
+      "id": "26",
+      "name": "James Wilson",
+      "email": "james.wilson26@example.com",
+      "degree": "BCom",
+      "subject": "Economics",
+      "phone": "9982636854",
+      "gender": "Male",
+      "password": "james26pass"
+    },
+    {
+      "id": "28",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson28@example.com",
+      "degree": "BCom",
+      "subject": "Mathematics",
+      "phone": "9271728469",
+      "gender": "Female",
+      "password": "sarah28pass"
+    },
+    {
+      "id": "29",
+      "name": "Emma White",
+      "email": "emma.white29@example.com",
+      "degree": "BTech Civil",
+      "subject": "Chemistry",
+      "phone": "9416789973",
+      "gender": "Male",
+      "password": "emma29pass"
+    }
+  ],
+  "Students": [
+    {
+      "id": "2",
+      "name": "Priya Sharma",
+      "reg_no": "REG2025002",
+      "email": "priya.sharma@example.com",
+      "department": "Electrical Engineering",
+      "gender": "Female",
+      "password": "Priya@123",
+      "phone": "9876543211",
+      "subject": "Science",
+      "address": "22, Rose Avenue, Delhi"
+    },
+    {
+      "id": "3",
+      "name": "Rohan Gupta",
+      "reg_no": "REG2025003",
+      "email": "rohan.gupta@example.com",
+      "department": "Mechanical Engineering",
+      "gender": "Male",
+      "password": "Rohan@123",
+      "phone": "9876543212",
+      "subject": "Computer Science",
+      "address": "17, Lake View, Bangalore"
+    },
+    {
+      "id": "4",
+      "name": "Sneha Verma",
+      "reg_no": "REG2025004",
+      "email": "sneha.verma@example.com",
+      "department": "Civil Engineering",
+      "gender": "Female",
+      "password": "Sneha@123",
+      "phone": "9876543213",
+      "subject": "Biology",
+      "address": "53, Park Lane, Hyderabad"
+    },
+    {
+      "id": "5",
+      "name": "Karan Patel",
+      "reg_no": "REG2025005",
+      "email": "karan.patel@example.com",
+      "department": "Electronics and Communication",
+      "gender": "Male",
+      "password": "Karan@123",
+      "phone": "9876543214",
+      "subject": "History",
+      "address": "10, City Center, Ahmedabad"
+    },
+    {
+      "id": "7",
+      "name": "Devansh Kapoor",
+      "reg_no": "REG2025007",
+      "email": "devansh.kapoor@example.com",
+      "department": "Chemical Engineering",
+      "gender": "Male",
+      "password": "Devansh@123",
+      "phone": "9876543216",
+      "subject": "Chemistry",
+      "address": "12, Sun Street, Chennai"
+    },
+    {
+      "id": "8",
+      "name": "Ishita Singh",
+      "reg_no": "REG2025008",
+      "email": "ishita.singh@example.com",
+      "department": "Biotechnology",
+      "gender": "Female",
+      "password": "Ishita@123",
+      "phone": "9876543217",
+      "subject": "English",
+      "address": "78, Lake Town, Kolkata"
+    },
+    {
+      "id": "9",
+      "name": "Manav Joshi",
+      "reg_no": "REG2025009",
+      "email": "manav.joshi@example.com",
+      "department": "Computer Science Engineering",
+      "gender": "Male",
+      "password": "Manav@123",
+      "phone": "9876543218",
+      "subject": "Economics",
+      "address": "89, Hill View, Jaipur"
+    },
+    {
+      "id": "10",
+      "name": "Tanya Desai",
+      "reg_no": "REG2025010",
+      "email": "tanya.desai@example.com",
+      "department": "Electrical Engineering",
+      "gender": "Female",
+      "password": "Tanya@123",
+      "phone": "9876543219",
+      "subject": "Geography",
+      "address": "54, Garden Road, Surat"
+    },
+    {
+      "id": "11",
+      "name": "Yash Vora",
+      "reg_no": "REG2025011",
+      "email": "yash.vora@example.com",
+      "department": "Mechanical Engineering",
+      "gender": "Male",
+      "password": "Yash@123",
+      "phone": "9876543220",
+      "subject": "Mathematics",
+      "address": "23, River Lane, Lucknow"
+    },
+    {
+      "id": "12",
+      "name": "Riya Nair",
+      "reg_no": "REG2025012",
+      "email": "riya.nair@example.com",
+      "department": "Civil Engineering",
+      "gender": "Female",
+      "password": "Riya@123",
+      "phone": "9876543221",
+      "subject": "Science",
+      "address": "88, Pearl Street, Kochi"
+    },
+    {
+      "id": "13",
+      "name": "Aarav Bhatt",
+      "reg_no": "REG2025013",
+      "email": "aarav.bhatt@example.com",
+      "department": "Electronics and Communication",
+      "gender": "Male",
+      "password": "Aarav@123",
+      "phone": "9876543222",
+      "subject": "Computer Science",
+      "address": "65, Palm Avenue, Bhopal"
+    },
+    {
+      "id": "14",
+      "name": "Neha Sethi",
+      "reg_no": "REG2025014",
+      "email": "neha.sethi@example.com",
+      "department": "Information Technology",
+      "gender": "Female",
+      "password": "Neha@123",
+      "phone": "9876543223",
+      "subject": "Biology",
+      "address": "41, Pine Street, Nagpur"
+    },
+    {
+      "id": "15",
+      "name": "Siddharth Rao",
+      "reg_no": "REG2025015",
+      "email": "siddharth.rao@example.com",
+      "department": "Chemical Engineering",
+      "gender": "Male",
+      "password": "Siddharth@123",
+      "phone": "9876543224",
+      "subject": "History",
+      "address": "32, Cedar Road, Indore"
+    },
+    {
+      "id": "16",
+      "name": "Meera Iyer",
+      "reg_no": "REG2025016",
+      "email": "meera.iyer@example.com",
+      "department": "Biotechnology",
+      "gender": "Female",
+      "password": "Meera@123",
+      "phone": "9876543225",
+      "subject": "Physics",
+      "address": "19, Oak Street, Thiruvananthapuram"
+    },
+    {
+      "id": "17",
+      "name": "Vivaan Shah",
+      "reg_no": "REG2025017",
+      "email": "vivaan.shah@example.com",
+      "department": "Computer Science Engineering",
+      "gender": "Male",
+      "password": "Vivaan@123",
+      "phone": "9876543226",
+      "subject": "Chemistry",
+      "address": "77, Mango Avenue, Chandigarh"
+    },
+    {
+      "id": "18",
+      "name": "Diya Khanna",
+      "reg_no": "REG2025018",
+      "email": "diya.khanna@example.com",
+      "department": "Electrical Engineering",
+      "gender": "Female",
+      "password": "Diya@123",
+      "phone": "9876543227",
+      "subject": "English",
+      "address": "90, Silver Street, Goa"
+    },
+    {
+      "id": "19",
+      "name": "Rudra Chauhan",
+      "reg_no": "REG2025019",
+      "email": "rudra.chauhan@example.com",
+      "department": "Mechanical Engineering",
+      "gender": "Male",
+      "password": "Rudra@123",
+      "phone": "9876543228",
+      "subject": "Economics",
+      "address": "33, Redwood Lane, Mysore"
+    },
+    {
+      "id": "20",
+      "name": "Anika Menon",
+      "reg_no": "REG2025020",
+      "email": "anika.menon@example.com",
+      "department": "Civil Engineering",
+      "gender": "Female",
+      "password": "Anika@123",
+      "phone": "9876543229",
+      "subject": "Geography",
+      "address": "29, Cherry Lane, Patna"
+    },
+    {
+      "id": "21",
+      "name": "Krishna Yadav",
+      "reg_no": "REG2025021",
+      "email": "krishna.yadav@example.com",
+      "department": "Electronics and Communication",
+      "gender": "Male",
+      "password": "Krishna@123",
+      "phone": "9876543230",
+      "subject": "Mathematics",
+      "address": "40, Ocean Drive, Kanpur"
+    },
+    {
+      "id": "22",
+      "name": "Pooja Reddy",
+      "reg_no": "REG2025022",
+      "email": "pooja.reddy@example.com",
+      "department": "Information Technology",
+      "gender": "Female",
+      "password": "Pooja@123",
+      "phone": "9876543231",
+      "subject": "Science",
+      "address": "11, Maple Street, Visakhapatnam"
+    },
+    {
+      "id": "23",
+      "name": "Kabir Malhotra",
+      "reg_no": "REG2025023",
+      "email": "kabir.malhotra@example.com",
+      "department": "Chemical Engineering",
+      "gender": "Male",
+      "password": "Kabir@123",
+      "phone": "9876543232",
+      "subject": "Computer Science",
+      "address": "60, Bay Avenue, Raipur"
+    },
+    {
+      "id": "24",
+      "name": "Sanya Grover",
+      "reg_no": "REG2025024",
+      "email": "sanya.grover@example.com",
+      "department": "Biotechnology",
+      "gender": "Female",
+      "password": "Sanya@123",
+      "phone": "9876543233",
+      "subject": "Biology",
+      "address": "14, Sunset Boulevard, Ranchi"
+    },
+    {
+      "id": "25",
+      "name": "Ayaan Bhatnagar",
+      "reg_no": "REG2025025",
+      "email": "ayaan.bhatnagar@example.com",
+      "department": "Computer Science Engineering",
+      "gender": "Male",
+      "password": "Ayaan@123",
+      "phone": "9876543234",
+      "subject": "History",
+      "address": "81, Golden Park, Amritsar"
+    },
+    {
+      "id": "26",
+      "name": "Ira Chatterjee",
+      "reg_no": "REG2025026",
+      "email": "ira.chatterjee@example.com",
+      "department": "Electrical Engineering",
+      "gender": "Female",
+      "password": "Ira@123",
+      "phone": "9876543235",
+      "subject": "Physics",
+      "address": "25, Sapphire Lane, Siliguri"
+    },
+    {
+      "id": "27",
+      "name": "Parth Dutta",
+      "reg_no": "REG2025027",
+      "email": "parth.dutta@example.com",
+      "department": "Mechanical Engineering",
+      "gender": "Male",
+      "password": "Parth@123",
+      "phone": "9876543236",
+      "subject": "Chemistry",
+      "address": "7, Amber Street, Gwalior"
+    }
+  ]
+}
